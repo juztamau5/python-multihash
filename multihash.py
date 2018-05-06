@@ -2,7 +2,6 @@
 
 import hashlib
 import struct
-import sys
 
 import six
 
